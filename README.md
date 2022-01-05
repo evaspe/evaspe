@@ -6,7 +6,7 @@
 
 - Most of the projects below serve as an archive on my process of learning how to code. The most current repositories are Python and Matlab.
 - Many of these are school projects, however for privacy reasons I have not included school/assignment/course/professor names in the repository or file names, though they may appear as comments in the files themselves. I only posted code I wrote (I did not include group work), though if I do in the future, it will be only with explicit permission from collaborators. 
--
+
 <!---
 evaspe/evaspe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
